@@ -1,0 +1,8 @@
+Hello!this is ironmonke
+that works in publics!
+
+But, this also has extra features!
+
+Pressing the left hand joystick will make you fly where your left hand is pointing
+
+pressing the right hand joystick will make you shoot up like Moon Monke!
